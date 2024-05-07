@@ -1,0 +1,4 @@
+std_msgs/String task_id
+geometry_msgs/Point location
+builtin_interfaces/Time creation_time
+builtin_interfaces/Time expire_time
